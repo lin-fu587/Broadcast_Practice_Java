@@ -1,0 +1,2 @@
+# Broadcast_Practice_Java
+Broadcast_receiver廣播接收器元件的練習。
